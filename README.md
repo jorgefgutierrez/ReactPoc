@@ -1,2 +1,0 @@
-# ReactPoc
-Created with CodeSandbox
